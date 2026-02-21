@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/action_reload"
+        android:title="@string/reload"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_rotate" />
+
+    <item
+        android:id="@+id/action_fullscreen"
+        android:title="@string/fullscreen"
+        app:showAsAction="ifRoom"
+        android:icon="@android:drawable/ic_menu_zoom" />
+
+    <item
+        android:id="@+id/action_check_connection"
+        android:title="@string/check_connection"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_close"
+        android:title="@string/close_app"
+        app:showAsAction="never" />
+
+</menu>

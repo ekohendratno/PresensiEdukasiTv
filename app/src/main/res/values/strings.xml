@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PresensiEdukasi</string>
+    <string name="app_version">1.0.4</string>
+    <string name="app_url">https://presensi.s-c-h.my.id/leaderboard/index/smkpenawaja</string>
+    <string name="reload">Muat Ulang</string>
+    <string name="close_app">Tutup Aplikasi</string>
+    <string name="check_connection">Cek Koneksi</string>
+    <string name="fullscreen">Layar Penuh</string>
+</resources>
