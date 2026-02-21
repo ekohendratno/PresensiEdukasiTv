@@ -6,4 +6,10 @@
     <string name="close_app">Tutup Aplikasi</string>
     <string name="check_connection">Cek Koneksi</string>
     <string name="fullscreen">Layar Penuh</string>
+    <string name="restart_app">Restart Aplikasi</string>
+    <string name="check_network">Cek Jaringan</string>
+    <string name="check_resolution">Cek Resolusi</string>
+    <string name="desktop_mode">Mode Desktop</string>
+    <string name="landscape_mode">Mode Lanskap</string>
+    <string name="set_url">Set URL</string>
 </resources>

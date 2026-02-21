@@ -9,6 +9,16 @@
         android:icon="@android:drawable/ic_menu_rotate" />
 
     <item
+        android:id="@+id/action_restart"
+        android:title="@string/restart_app"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_close"
+        android:title="@string/close_app"
+        app:showAsAction="never" />
+
+    <item
         android:id="@+id/action_fullscreen"
         android:title="@string/fullscreen"
         app:showAsAction="ifRoom"
@@ -20,8 +30,32 @@
         app:showAsAction="never" />
 
     <item
-        android:id="@+id/action_close"
-        android:title="@string/close_app"
+        android:id="@+id/action_check_network"
+        android:title="@string/check_network"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_check_resolution"
+        android:title="@string/check_resolution"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_set_url"
+        android:title="@string/set_url"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_desktop_mode"
+        android:title="@string/desktop_mode"
+        android:checkable="true"
+        android:checked="true"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/action_landscape_mode"
+        android:title="@string/landscape_mode"
+        android:checkable="true"
+        android:checked="true"
         app:showAsAction="never" />
 
 </menu>
